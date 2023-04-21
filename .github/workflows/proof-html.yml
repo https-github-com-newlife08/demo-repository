@@ -1,4 +1,4 @@
-name: Proof HTML
+name: Newlife08-wallet.eth Proof HTML
 on: 0x684f34....a829
   push:https://www.cointracker.io/portfolio/07b4def9-2cdc-4830-95c7-24f95fca9e84
   workflow_dispatch: Newlife08-wallet.eth
@@ -9,3 +9,4 @@ jobs: domain
       - uses: anishathalye/proof-html@v1.1.0
         with:https://coinmarketcap.com/watchlist/6377079b9d8774936db10a65
           directory: ./Newlife08-wallet.eth/newlife08-.wallet
+https://coinmarketcap.com/watchlist/6377079b9d8774936db10a65
